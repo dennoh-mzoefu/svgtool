@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# **React Svg Editor**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Follow me on linkedin for more interesting projects](https://www.linkedin.com/in/kumar-amresh-1017a7161/)
 
-## Available Scripts
+[Click here to visit site ](https://react-svg-editor.netlify.app/)
 
-In the project directory, you can run:
+## Demo
 
-### `npm start`
+[![Watch the video](https://img.youtube.com/vi/rqtKGGTlQC4/maxresdefault.jpg)](https://www.youtube.com/watch?v=rqtKGGTlQC4)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# About
+ - React Svg Editor is a powerful design tool that  helps you to create anything: websites, applications, logos, and much more. 
+- Built for Web, React Svg Editor helps you create, share, test, and ship better designs from start to finish. 
+- Whether it’s consolidating tools or simplifying workflows React Svg Editor makes the design process faster, more efficient, and fun while keeping everyone on the same page.
 
-### `npm test`
+## Features
+-  Multiple tools provided to design layouts.
+- Gradient creator provided to create and use beautiful gradients within the project.
+- Theming made easy, select and save colours in palettes and use them throughout in the project, didn't liked a color, change it, it will automatically be applied to all the elements in which it was used.
+- Tool like clipart search, illustration search also provided.
+- Transform shapes easily, manipulate various properties like height, width, border color, background color etc.
+- over 8 css filters available.
+- Divide large projects into small parts , design them in separate pages of a project.
+- Export your project as svg or json.
+- Improt the json file again
+- Effects like outline , box-shadow also available.
+- Everything is saved locally , don't need internet to work
+- Pointer helpers are also provided to help place your shape in a perfect position.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How To Use
+- click on create new file on header
+- select tool
+- click on canvas to add shape
+- the sidebar on right contains all the properties, manipulate them from there.
+- for multipoints shapes like line, polygon, path use right click to end the path.
+- press ctrl key and drag the shape to scale.
+- press shift key and drag the shape to rotate.
+- Click on file then on pages to add more pages.
+- Click on file and then on save to save your project.
+- Click on gradient , gradient creation tool will open up for you.
+- Click on color , to add colors to palette.
+- Click on Insert, clipart search tool will open up for you.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
