@@ -14,7 +14,7 @@ ReactDOM.render(
     <Provider store={store}>
       <ThemeProvider theme={theme}>
         <App />
-      </ThemeProvider>]
+      </ThemeProvider>
     </Provider>
   </BrowserRouter>,
   document.getElementById('root')
