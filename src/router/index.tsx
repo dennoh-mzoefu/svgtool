@@ -6,8 +6,8 @@ import UiEditor from '../views/uiEditor';
 const Router: React.FC<{}> = function () {
     return (
         <Routes>
-            
-            <Route path='/' element={<UiEditor />} />
+            <Route path='/' element={<LandingPage />} />
+            <Route path='/editor' element={<UiEditor />} />
         </Routes>
     );
 }
